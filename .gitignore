@@ -1,0 +1,15 @@
+*.rar
+*.pth
+*.ckpt
+/data
+/online filtering
+/result
+/runs
+/.idea
+.idea/
+**/__pycache__
+**/__pycache__/
+/**/ray_results
+/**/runs
+/**/results
+/**/lightning_logs
